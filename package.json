@@ -1,0 +1,25 @@
+{
+  "name": "destroyable-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkan/node-destroyable-listener.git"
+  },
+  "keywords": [
+    "nodejs",
+    "event",
+    "destroy",
+    "listener"
+  ],
+  "author": "Hakan Aktaş <iletisim@hakanaktas.com.tr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hkan/node-destroyable-listener/issues"
+  },
+  "homepage": "https://github.com/hkan/node-destroyable-listener"
+}
