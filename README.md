@@ -43,6 +43,10 @@ That text :point_up: sounds confusing? Check the comparison below.
     // You *do not* need the reference to `foo` function. Simply call the destroy method on the returned listener object.
     changeListener.destroy()
 
+# Installing
+
+    $ npm install destroyable-listener
+
 # Contribution
 
 Any pull requests, ideas or issue creations are welcome.
